@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\4IIR\\Devooops2\\DevooopsAtelier2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B939014C-BA50-46C2-8BCE-9EBD7CAC780F}|DevooopsAtelier2\\DevooopsAtelier2.csproj|c:\\4iir\\devooops2\\devooopsatelier2\\devooopsatelier2\\webform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B939014C-BA50-46C2-8BCE-9EBD7CAC780F}|DevooopsAtelier2\\DevooopsAtelier2.csproj|solutionrelative:devooopsatelier2\\webform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm.cs",
+              "DocumentMoniker": "C:\\4IIR\\Devooops2\\DevooopsAtelier2\\DevooopsAtelier2\\WebForm.cs",
+              "RelativeDocumentMoniker": "DevooopsAtelier2\\WebForm.cs",
+              "ToolTip": "C:\\4IIR\\Devooops2\\DevooopsAtelier2\\DevooopsAtelier2\\WebForm.cs",
+              "RelativeToolTip": "DevooopsAtelier2\\WebForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:28:13.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
